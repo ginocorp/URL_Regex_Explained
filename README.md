@@ -14,7 +14,7 @@
 
 ## Usage
 
-* [My_Gist](https://github.com/ginocorp/URL_Regex_Explained/blob/master/gist.template.md)
+* [My_Gist](https://gist.github.com/ginocorp/f404a37492aa8a53bd8636434865dec6)
 
 ## Credits
 

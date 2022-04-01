@@ -64,6 +64,6 @@ character classes, or range expressions. We can find 3 in the URL regex:
 ## Author
 
 Gino Colman
-[Email](mailto:gdcolman95@gmail.com)
-[Gist](https://gist.github.com/ginocorp/f404a37492aa8a53bd8636434865dec6)
-[Github](https://github.com/ginocorp)
+* [Email](mailto:gdcolman95@gmail.com)
+* [Gist](https://gist.github.com/ginocorp/f404a37492aa8a53bd8636434865dec6)
+* [Github](https://github.com/ginocorp)
